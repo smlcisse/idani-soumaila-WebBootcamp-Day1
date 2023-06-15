@@ -1,4 +1,4 @@
-function isprime(nbr) {
+function isPrime(nbr) {
     if (nbr <= 1) {
       return false;
     }
@@ -10,5 +10,5 @@ function isprime(nbr) {
     return true;
   }
   /*const nbr = 12;
-  const isnbrPrime = isprime(nbr);
-  console.log(`Is ${nbr} prime? ${isnbrPrime}`);*/
+  const isnbrPrime = isPrime(nbr);
+  console.log(`Is ${nbr} Prime? ${isnbrPrime}`);*/
